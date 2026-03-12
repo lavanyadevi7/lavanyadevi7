@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-I'm a second-year B.Tech student at *Karunya Institute of Technology and Sciences, exploring the fusion of **hardware and software*.  
+I'm a third-year B.Tech student at *Karunya Institute of Technology and Sciences, exploring the fusion of **hardware and software*.  
 I enjoy building projects that use sensors, microcontrollers, and intelligent automation to solve real-world problems.  
 My current journey includes hands-on work in *Embedded Systems + AI*, gesture interfaces, and social-impact innovations.  
 
